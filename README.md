@@ -1,3 +1,12 @@
+freeCodeCamp tutorial:
+JANUARY 19, 2022
+/
+#REACT
+How to Make a Filter Component in React
+Ateev Duggal
+
+https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
